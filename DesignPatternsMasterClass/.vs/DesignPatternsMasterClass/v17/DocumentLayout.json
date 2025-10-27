@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\views\\customerprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\views\\customerprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\chainofresponsibility\\areadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\chainofresponsibility\\areadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\chainofresponsibility\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\chainofresponsibility\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\chainofresponsibility\\managerassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\chainofresponsibility\\managerassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\chainofresponsibility\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\chainofresponsibility\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\chainofresponsibility\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\chainofresponsibility\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\controllers\\customerprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\controllers\\customerprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\models\\customerproccessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\models\\customerproccessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\dal\\entities\\customerprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\dal\\entities\\customerprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\chainofresponsibilitypattern\\dal\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6020B2B-2373-4653-90A2-489E0603D11C}|ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibilitypattern\\dal\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,141 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\Views\\CustomerProcess\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\Views\\CustomerProcess\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\Views\\CustomerProcess\\Index.cshtml",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\Views\\CustomerProcess\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T13:31:32.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerProcessController.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\Controllers\\CustomerProcessController.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\Controllers\\CustomerProcessController.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\Controllers\\CustomerProcessController.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\Controllers\\CustomerProcessController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:28:03.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AreaDirector.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\AreaDirector.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\AreaDirector.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\AreaDirector.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\AreaDirector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:26:50.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Manager.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\Manager.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Manager.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:24:03.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManagerAssistant.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\ManagerAssistant.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\ManagerAssistant.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\ManagerAssistant.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\ManagerAssistant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:21:01.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Treasure.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Treasure.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\Treasure.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Treasure.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\Treasure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:11:22.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Employee.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\Employee.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Employee.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\ChainOfResponsibility\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:06:59.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerProccessViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\Models\\CustomerProccessViewModel.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\Models\\CustomerProccessViewModel.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\Models\\CustomerProccessViewModel.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\Models\\CustomerProccessViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:03:38.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerProcess.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\DAL\\Entities\\CustomerProcess.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\DAL\\Entities\\CustomerProcess.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\DAL\\Entities\\CustomerProcess.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\DAL\\Entities\\CustomerProcess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:53:22.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\DAL\\Context\\Context.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityPattern\\DAL\\Context\\Context.cs",
-              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\ChainOfResponsibilityPattern\\DAL\\Context\\Context.cs",
-              "RelativeToolTip": "ChainOfResponsibilityPattern\\DAL\\Context\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:53:03.364Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height:100vh;">
+    <div class="card shadow p-4" style="max-width: 600px; width:100%;">
+        <div class="card-header text-center bg-success text-white">
+            <h3>Ultra Plan</h3>
+        </div>
+        <div class="card-body">
+            <p><strong>Plan Adı:</strong> @ViewBag.v1</p>
+            <p><strong>Kişi Sayısı:</strong> @ViewBag.v2</p>
+            <p><strong>Plan Fiyatı:</strong> @ViewBag.v3 ₺</p>
+            <p><strong>Plan İçeriği:</strong> @ViewBag.v4</p>
+            <p><strong>Plan Çözünürlüğü:</strong> @ViewBag.v5</p>
+        </div>
+        <div class="card-footer text-center">
+            <a href="/Plans/StandardPlan/" class="btn btn-warning w-100">Standart Planı Gör</a>
+        </div>
+    </div>
+</div>
