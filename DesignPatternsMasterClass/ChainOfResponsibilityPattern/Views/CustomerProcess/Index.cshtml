@@ -1,0 +1,24 @@
+﻿@model CustomerProccessViewModel
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<div class="container d-flex justify-content-center align-items-center" style="height:100vh;">
+    <div class="card shadow p-4" style="width: 400px;">
+        <h3 class="card-title text-center mb-4">Müşteri İşlemleri</h3>
+        <form method="post">
+            <div class="mb-3">
+                <label asp-for="FullName" class="form-label">Müşteri Adı Soyadı</label>
+                <input type="text" class="form-control" asp-for="FullName" placeholder="Ad Soyad Girin" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Amount" class="form-label">Çekilecek Miktar</label>
+                <input type="text" class="form-control" asp-for="Amount" placeholder="₺ Miktar Girin" />
+            </div>
+
+            <button type="submit" class="btn btn-warning w-100">💰 Para Çek</button>
+        </form>
+    </div>
+</div>
