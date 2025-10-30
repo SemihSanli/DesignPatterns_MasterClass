@@ -1,0 +1,14 @@
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\bin\Debug\net8.0\UnitOfWork.EntityLayer.deps.json
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\bin\Debug\net8.0\UnitOfWork.EntityLayer.runtimeconfig.json
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\bin\Debug\net8.0\UnitOfWork.EntityLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\bin\Debug\net8.0\UnitOfWork.EntityLayer.pdb
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.AssemblyInfo.cs
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\refint\UnitOfWork.EntityLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.pdb
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\UnitOfWork.EntityLayer.genruntimeconfig.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.EntityLayer\obj\Debug\net8.0\ref\UnitOfWork.EntityLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\bin\Debug\net8.0\UnitOfWork.DataAccessLayer.deps.json
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\bin\Debug\net8.0\UnitOfWork.DataAccessLayer.runtimeconfig.json
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\bin\Debug\net8.0\UnitOfWork.DataAccessLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\bin\Debug\net8.0\UnitOfWork.DataAccessLayer.pdb
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\bin\Debug\net8.0\UnitOfWork.EntityLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\bin\Debug\net8.0\UnitOfWork.EntityLayer.pdb
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWo.201357BA.Up2Date
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\refint\UnitOfWork.DataAccessLayer.dll
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.pdb
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\UnitOfWork.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Semih\source\repos\DesignPatternsMasterClass\UnitOfWork.DataAccessLayer\obj\Debug\net8.0\ref\UnitOfWork.DataAccessLayer.dll

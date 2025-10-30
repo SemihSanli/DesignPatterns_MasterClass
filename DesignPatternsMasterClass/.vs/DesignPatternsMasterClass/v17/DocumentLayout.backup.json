@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\entityframework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\entityframework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\entityframework\\efprocessdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\entityframework\\efprocessdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\abstract\\iprocessdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\abstract\\iprocessdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448BC63D-848C-4095-9443-A5DCDF1FA25A}|UnitOfWork.UI\\UnitOfWork.UI.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{448BC63D-848C-4095-9443-A5DCDF1FA25A}|UnitOfWork.UI\\UnitOfWork.UI.csproj|solutionrelative:unitofwork.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448BC63D-848C-4095-9443-A5DCDF1FA25A}|UnitOfWork.UI\\UnitOfWork.UI.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448BC63D-848C-4095-9443-A5DCDF1FA25A}|UnitOfWork.UI\\UnitOfWork.UI.csproj|solutionrelative:unitofwork.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.dataaccesslayer\\migrations\\20251030092950_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAEEF5D-0F3C-484C-A325-66A3CAB3CF0E}|UnitOfWork.DataAccessLayer\\UnitOfWork.DataAccessLayer.csproj|solutionrelative:unitofwork.dataaccesslayer\\migrations\\20251030092950_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1C44C-72E3-44E1-9689-CEF3DF45F600}|UnitOfWork.EntityLayer\\UnitOfWork.EntityLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.entitylayer\\entities\\proccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1C44C-72E3-44E1-9689-CEF3DF45F600}|UnitOfWork.EntityLayer\\UnitOfWork.EntityLayer.csproj|solutionrelative:unitofwork.entitylayer\\entities\\proccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1C44C-72E3-44E1-9689-CEF3DF45F600}|UnitOfWork.EntityLayer\\UnitOfWork.EntityLayer.csproj|c:\\users\\semih\\source\\repos\\designpatternsmasterclass\\unitofwork.entitylayer\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1C44C-72E3-44E1-9689-CEF3DF45F600}|UnitOfWork.EntityLayer\\UnitOfWork.EntityLayer.csproj|solutionrelative:unitofwork.entitylayer\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +58,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:52:03.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfProcessDal.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\EntityFramework\\EfProcessDal.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\EntityFramework\\EfProcessDal.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\EntityFramework\\EfProcessDal.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\EntityFramework\\EfProcessDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:51:27.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:51:21.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProcessDal.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Abstract\\IProcessDal.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\Abstract\\IProcessDal.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Abstract\\IProcessDal.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\Abstract\\IProcessDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:50:36.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:49:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:49:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251030092950_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Migrations\\20251030092950_mig1.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\Migrations\\20251030092950_mig1.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Migrations\\20251030092950_mig1.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\Migrations\\20251030092950_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:29:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.UI\\Program.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.UI\\Program.cs",
+              "RelativeToolTip": "UnitOfWork.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:24:50.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "UnitOfWork.DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:22:35.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UnitOfWork.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.UI\\appsettings.json",
+              "RelativeToolTip": "UnitOfWork.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T09:15:37.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proccess.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.EntityLayer\\Entities\\Proccess.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.EntityLayer\\Entities\\Proccess.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.EntityLayer\\Entities\\Proccess.cs",
+              "RelativeToolTip": "UnitOfWork.EntityLayer\\Entities\\Proccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:13:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.EntityLayer\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.EntityLayer\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\DesignPatternsMasterClass\\UnitOfWork.EntityLayer\\Entities\\Customer.cs",
+              "RelativeToolTip": "UnitOfWork.EntityLayer\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:12:58.623Z"
             }
           ]
         }
